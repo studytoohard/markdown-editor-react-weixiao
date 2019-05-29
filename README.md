@@ -1,7 +1,7 @@
 
 # 以下为原作API
 --- 
-# react-markdown-editor-lite
+# [react-markdown-editor-lite](https://github.com/HarryChen0506/react-markdown-editor-lite)
 
 * a light-weight(size 66KB) Markdown editor of React component
 * use [markdown-it](https://github.com/markdown-it/markdown-it) as a parser
