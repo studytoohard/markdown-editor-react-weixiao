@@ -1,3 +1,6 @@
+
+# 以下为原作API
+--- 
 # react-markdown-editor-lite
 
 * a light-weight(size 66KB) Markdown editor of React component
